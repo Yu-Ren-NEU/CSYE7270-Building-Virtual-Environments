@@ -8,4 +8,6 @@ I add Five signification feature enhancements in Roll a Ball Game.
 4. Make the obstacles move to increase the difficulty of the game.
 5. Set the end conditions of the game, for example, going out of bounds or hitting a special object, to enhance the playability of the game.
 
+I write the explaination of code and design in "Code and Design Explaination.pdf".
+
 The Gameplay Video link in YouTube: https://youtu.be/n0OG8uurMNU
