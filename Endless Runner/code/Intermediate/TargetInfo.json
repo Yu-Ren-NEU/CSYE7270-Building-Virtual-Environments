@@ -1,0 +1,19 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealHeaderTool",
+			"Path": "/Users/yu/Documents/Graduation/game/unreal engineer/UE_4.26/Engine/Source/Programs/UnrealHeaderTool/UnrealHeaderTool.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UE4Editor",
+			"Path": "/Users/yu/Documents/Graduation/game/unreal engineer/UE_4.26/Engine/Source/UE4Editor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "UE4Game",
+			"Path": "/Users/yu/Documents/Graduation/game/unreal engineer/UE_4.26/Engine/Source/UE4Game.Target.cs",
+			"Type": "Game"
+		}
+	]
+}
